@@ -22,7 +22,7 @@ Concept of Kubernetes architecture with diagrams and practical YAML examples.
   - Horizontal Pod Autoscaler (HPA)
 
 ## 2. Architecture Diagram
-See `Diagrams/` folder for YAML manifests demonstrating:
+See `Architecture Diagrams/` folder for YAML manifests demonstrating:
  
 ## 3. Example Deployments
 
